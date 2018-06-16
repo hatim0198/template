@@ -1,4 +1,4 @@
-all: 
+all: t1 t3 
 
 t1: test1.out
 
